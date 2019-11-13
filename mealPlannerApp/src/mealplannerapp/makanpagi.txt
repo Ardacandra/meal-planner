@@ -1,0 +1,15 @@
+Bubur-8000
+Indomie-3000
+Nasi kuning-6000
+Pecel-5000
+Mcmuffin-25000
+Roti-5000
+Pisang-4000
+Nasi telor-8000
+Energen-4000
+Sereal-10000
+Soto ayam-7000
+Gudeg-20000
+Gado gado-11000
+Sop ayam-16000
+Kupat tahu-12000

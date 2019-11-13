@@ -1,0 +1,15 @@
+Soto ayam-9000
+Padang-11000
+Ayam geprek-10000
+Ikan goreng-15000
+Sapi lada hitam-12000
+Indomie-3000
+Nasi sayur-4000
+Paket panas MCD-30000
+Ayam krisbar-16000
+Gudeg-20000
+Nasi telor-8000
+Raminten-40000
+Yamien-17000
+Nasi goreng seafood-15000
+Nasi lemak-18000

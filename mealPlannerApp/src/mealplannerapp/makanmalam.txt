@@ -1,0 +1,15 @@
+Nasi goreng-12000
+Kwetiau-15000
+Lontong sayur-17000
+Sate ayam-20000
+Indomie-3000
+Mie ayam-8000
+Lotek-9000
+Gado gado-11000
+AllYouCanEat sushi-100000
+Yoshinoya-50000
+Apel-4000
+Pizza-40000
+Pasta-25000
+Lele-13000
+Omelet-10000
